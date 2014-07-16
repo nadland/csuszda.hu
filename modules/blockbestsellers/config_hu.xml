@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blockbestsellers</name>
+	<displayName><![CDATA[N&eacute;pszerű term&eacute;kek blokk]]></displayName>
+	<version><![CDATA[1.5.3]]></version>
+	<description><![CDATA[Egy boltodn&aacute;l n&eacute;pszerű term&eacute;kek blokkot ad hozz&aacute;.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

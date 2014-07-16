@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blocklanguages</name>
+	<displayName><![CDATA[Nyelvi blokk]]></displayName>
+	<version><![CDATA[1.3]]></version>
+	<description><![CDATA[Egy t&ouml;mb hozz&aacute;ad&aacute;s&aacute;val v&aacute;s&aacute;rl&oacute;id sz&aacute;m&aacute;ra lehetőv&eacute; az &aacute;ruh&aacute;z tartalm&aacute;nak megtekint&eacute;s&eacute;t elt&eacute;rő nyelvek kiv&aacute;laszt&aacute;s&aacute;val.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blockreinsurance</name>
+	<displayName><![CDATA[Vevői bizalom blokk]]></displayName>
+	<version><![CDATA[2.1]]></version>
+	<description><![CDATA[Egy inform&aacute;ci&oacute;s blokkot jelen&iacute;t meg, melynek c&eacute;lja olyan seg&iacute;tő inform&aacute;ci&oacute;k megjelen&iacute;t&eacute;se a vevők fel&eacute;, mely alapj&aacute;n boltodban megb&iacute;zhat.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

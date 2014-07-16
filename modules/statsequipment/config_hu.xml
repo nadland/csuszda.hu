@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>statsequipment</name>
+	<displayName><![CDATA[B&ouml;ng&eacute;szők &eacute;s oper&aacute;ci&oacute;s rendszerek]]></displayName>
+	<version><![CDATA[1.2]]></version>
+	<description><![CDATA[B&ouml;ng&eacute;sző &eacute;s oper&aacute;ci&oacute;s rendszer-haszn&aacute;lati grafikont tartalmaz&oacute; f&uuml;let ad hozz&aacute; a Statisztika vez&eacute;rlőpulthoz.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

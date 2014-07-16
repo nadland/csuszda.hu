@@ -1,0 +1,8 @@
+﻿[{shop_url}] 
+
+Kedves {lastname} {firstname}! 
+
+Tájékoztatjuk, hogy a {order_name} rendelés számú rendelése megérkezett áruházunkba.	 
+
+{shop_name} [{shop_url}]
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>bankwire</name>
+	<displayName><![CDATA[Banki &aacute;tutal&aacute;s]]></displayName>
+	<version><![CDATA[0.7.2]]></version>
+	<description><![CDATA[Term&eacute;k ellen&eacute;rt&eacute;kek elfogad&aacute;sa banki utal&aacute;ssal.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Biztos törölni akarod a részleteket?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

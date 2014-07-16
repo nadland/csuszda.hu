@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blocksocial</name>
+	<displayName><![CDATA[Szoci&aacute;lis h&aacute;l&oacute; blokk]]></displayName>
+	<version><![CDATA[1.1]]></version>
+	<description><![CDATA[Itt megadhatod a m&aacute;rk&aacute;dhoz kapcsol&oacute;d&oacute; k&ouml;z&ouml;ss&eacute;gi fi&oacute;kjaid inform&aacute;ci&oacute;it.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

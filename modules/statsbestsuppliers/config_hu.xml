@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>statsbestsuppliers</name>
+	<displayName><![CDATA[Legjobb besz&aacute;ll&iacute;t&oacute;k]]></displayName>
+	<version><![CDATA[1.2]]></version>
+	<description><![CDATA[Egy legjobb besz&aacute;ll&iacute;t&oacute;k list&aacute;t ad hozz&aacute; a Statisztik&aacute;k vez&eacute;rlőpulthoz.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

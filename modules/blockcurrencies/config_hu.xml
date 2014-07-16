@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blockcurrencies</name>
+	<displayName><![CDATA[P&eacute;nznem blokk]]></displayName>
+	<version><![CDATA[0.3]]></version>
+	<description><![CDATA[Olyan p&eacute;nznemv&aacute;laszt&oacute; t&ouml;mb&ouml;t ad hozz&aacute;, ahol a v&aacute;s&aacute;rl&oacute;k kiv&aacute;laszthatj&aacute;k a nekik megfelelő v&aacute;s&aacute;rl&aacute;si valut&aacute;t.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

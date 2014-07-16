@@ -1,0 +1,68 @@
+[{shop_url}] 
+
+Kedves {lastname} {firstname}!
+
+Köszönjük a vásárlást! {shop_name} 
+
+RENDELÉS: {order_name} Leadva {date}
+
+FIZETÉS: {payment} 		 
+
+CIKKSZÁM
+
+TERMÉK
+
+ÁR
+
+MENNYISÉG
+
+ÖSSZESEN
+
+{products} 
+
+{discounts} 
+
+TERMÉKEK 
+
+{total_products} 
+
+KEDVEZMÉNYEK 
+
+{total_discounts} 
+
+AJÁNDÉK CSOMAGOLÁS 
+
+{total_wrapping} 
+
+SZÁLLÍTÁS 
+
+{total_shipping} 
+
+FIZETETT ADÓ ÖSSZESEN 
+
+{total_tax_paid} 
+
+ÖSSZES KIFIZETETT 
+
+{total_paid} 
+
+SZÁLLÍTÓ {carrier}
+
+FIZETÉS: {payment} 		 
+
+{delivery_block_html} 
+
+{invoice_block_html} 
+
+A vásárlófiók "Rendelés előzmény"
+[{history_url}] szekciója alatt megnézheted
+és letöltheted a számládat a "Fiókom"
+[{my_account_url}]-ra kattintva. 
+
+Ha vendégfiókod van, rendelésedet a bolt "Vendégnyomkövetés"
+[{guest_tracking_url}?id_order={order_name}]
+szekciójánál tudod követni. 
+
+{shop_name} [{shop_url}] háttérmotorja a
+PrestaShop(tm) [http://www.prestashop.com/] 
+

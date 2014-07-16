@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>sendtoafriend</name>
+	<displayName><![CDATA[K&uuml;ld&eacute;s egy bar&aacute;tnak modul]]></displayName>
+	<version><![CDATA[1.7.2]]></version>
+	<description><![CDATA[Lehetőv&eacute; teszi a v&aacute;s&aacute;rl&oacute;knak, hogy term&eacute;k hivatkoz&aacute;st k&uuml;ldjenek el egy bar&aacute;tnak.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
